@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC_Register_Login_WebAPI", "MVC_Register_Login_WebAPI.csproj", "{94617206-0CE4-40C4-A9AA-B3F8D387D2C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94617206-0CE4-40C4-A9AA-B3F8D387D2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94617206-0CE4-40C4-A9AA-B3F8D387D2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94617206-0CE4-40C4-A9AA-B3F8D387D2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94617206-0CE4-40C4-A9AA-B3F8D387D2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D669F9C0-727E-44B7-9169-1BAF5B656FC5}
+	EndGlobalSection
+EndGlobal
